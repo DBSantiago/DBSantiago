@@ -2,7 +2,7 @@
 <h3 align="center">Apasionado del desarrollo de software 💻, la pizza 🍕 y los gatitos 🐱</h3>
 <br>
 
-- 🌱 Estoy aprendiendo **React, Java y más JavaScript**
+- 📚 Estoy aprendiendo **React, Java y más JavaScript**
 
 - 📖 Más adelante quiero aprender: **Spring, NEXT.js, Linux**
 
