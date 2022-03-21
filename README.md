@@ -2,11 +2,11 @@
 <h3 align="center">Apasionado del desarrollo de software 💻, la pizza 🍕 y los gatitos 🐱</h3>
 <br>
 
-- 📚 Estoy aprendiendo **React, Java y más JavaScript**
+- 📚 Estoy aprendiendo **React y Spring**
 
-- 📖 Más adelante quiero aprender: **Spring, NEXT.js, Linux**
+- 📖 Más adelante quiero aprender: **Django, Docker, Linux**
 
-- 🎲 Un hobby: **videojuegos 🎮**
+- 🎲 Un hobby: **videojuegos 🎮 y basket 🏀**
 
 - 👨‍💻 Mis proyectos están disponibles en: [[COMING SOON...]](#)
 
