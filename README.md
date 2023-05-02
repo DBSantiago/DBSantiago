@@ -2,7 +2,7 @@
 <h3 align="center">Apasionado del desarrollo de software 💻, la pizza 🍕 y los gatitos 🐱</h3>
 <br>
 
-- 📚 Estoy aprendiendo **Django y Linux**
+- 📚 Estoy aprendiendo **Linux, Web scraping con Python**
 
 - 📖 Más adelante quiero aprender: **AWS, Docker**
 
