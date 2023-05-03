@@ -30,7 +30,7 @@
       height="60"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"
       alt="fastapi"
@@ -38,7 +38,7 @@
       height="60"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/django.svg"
       alt="django"
