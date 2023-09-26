@@ -2,9 +2,9 @@
 <h3 align="center">Apasionado del desarrollo de software 💻, la pizza 🍕 y los gatitos 🐱</h3>
 <br>
 
-- 📚 Estoy aprendiendo **Linux, Web scraping con Python**
+- 📚 Estoy aprendiendo **C# 11 / .NET 7, Web scraping con Python**
 
-- 📖 Más adelante quiero aprender: **AWS, Docker**
+- 📖 Más adelante quiero aprender: **AWS, Azure**
 
 - 🎲 Un hobby: **videojuegos 🎮 y basket 🏀**
 
